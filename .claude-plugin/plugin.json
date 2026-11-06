@@ -1,0 +1,1 @@
+{ "name": "indicador-tokens", "version": "0.1.0", "description": "Muestra encima del prompt el % de contexto y de límites de uso (5 h y 7 días) usado y restante", "types": "./types/index.d.ts" }

@@ -1,0 +1,5 @@
+{
+  "name": "indicador-tokens",
+  "owner": { "name": "sancossantos" },
+  "plugins": [{ "name": "indicador-tokens", "source": "./" }]
+}
